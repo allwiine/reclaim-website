@@ -1,6 +1,6 @@
 # reclaim-app.dev
 
-The website for [Reclaim](https://github.com/allwiine/Reclaim), the macOS app
+The website for [Reclaim](https://github.com/allwiine/reclaim-macos), the macOS app
 that finds and cleans wasted developer storage. Three pages: `/` (landing),
 `/support` and `/privacy`.
 

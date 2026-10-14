@@ -1,6 +1,6 @@
 /** Site-wide facts and navigation, so a URL only ever changes here. */
 
-const repo = 'https://github.com/allwiine/Reclaim';
+const repo = 'https://github.com/allwiine/reclaim-macos';
 
 export const SITE = {
   name: 'Reclaim',
@@ -20,6 +20,6 @@ export const SITE = {
     { label: 'Home', href: '/' },
     { label: 'Support', href: '/support/' },
     { label: 'Privacy', href: '/privacy/' },
-    { label: 'github.com/allwiine/Reclaim', href: repo },
+    { label: 'github.com/allwiine/reclaim-macos', href: repo },
   ],
 } as const;

@@ -10,5 +10,5 @@
 - [Home](https://reclaim-app.dev/): what Reclaim covers, the safety model and the download
 - [Support](https://reclaim-app.dev/support/): common questions and recovery steps
 - [Privacy](https://reclaim-app.dev/privacy/): what the app reads, and what leaves the Mac
-- [Source](https://github.com/allwiine/Reclaim): MIT-licensed repository
-- [Releases](https://github.com/allwiine/Reclaim/releases): downloads and changelog
+- [Source](https://github.com/allwiine/reclaim-macos): MIT-licensed repository
+- [Releases](https://github.com/allwiine/reclaim-macos/releases): downloads and changelog
